@@ -1,3 +1,7 @@
+// 1  
+// 1  2  
+// 1  2  3  
+
 #include<stdio.h>
 int main(){
     for(int i=1; i<=3; i++)
@@ -9,4 +13,3 @@ int main(){
         printf("\n");
     }
 }
-//done
