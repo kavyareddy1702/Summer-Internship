@@ -9,8 +9,8 @@ int main()
     //scanf("%s",&string);
     gets(string);
     len = strlen(string);
-    lar = 'Z';
-    small = 'a';
+    lar = string[0];
+    small = string[0];
 
     for(int i=0; i<len; i++){
         if(string[i]>lar){

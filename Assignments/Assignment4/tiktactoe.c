@@ -138,4 +138,4 @@ void showboard()
 }
 
 
-//wap to count total number of alphabets digits and special characters in a string
+//wap to count total number of alphabets digits and special characters in a string  
