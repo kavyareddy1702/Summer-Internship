@@ -136,3 +136,6 @@ void showboard()
     printf("\t-----------------\n");
     printf("\t  %c  |  %c  |  %c \n", board[7], board[8], board[9]);
 }
+
+
+//wap to count total number of alphabets digits and special characters in a string
